@@ -1,10 +1,10 @@
-# Jefferson Elias | Digital Engineer & Creative Developer 🚀
+# Jefferson Elias | Digital Engineer & Creative Developer
 
 Autodidact and "vibe coding" enthusiast focused on high-performance JAMstack architectures and minimalist design. I engineer digital solutions that prioritize velocity, symmetry, and a "Minimalist Premium" user experience.
 
 ---
 
-### 🌌 Primary Projects
+### Primary Projects
 
 #### [Space Tools dev](https://spacetools.dev) — *Global Ecosystem* 🌎
 An experimental laboratory of web utilities designed to reduce friction between idea and execution.
@@ -20,7 +20,7 @@ A digital engineering studio specializing in high-impact interfaces for the Braz
 
 ---
 
-### 🛠 Tech Stack & Command Station
+### Tech Stack & Command Station
 
 I utilize a modern toolset to ensure sub-1-second loading times and clean, invisible engineering:
 
