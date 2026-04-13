@@ -26,7 +26,7 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | Vue.js, Nuxt 3 Tailwind CSS |
+| **Frontend** | Vue.js, Nuxt 3, Tailwind CSS |
 | **Build Tools** | Vite, Nuxt Modules, JAMstack Architecture |
 | **Backend/Cloud** | Firebase, Cloudflare |
 | **Workflow** | Git, GitHub, VS Code, Markdown |
