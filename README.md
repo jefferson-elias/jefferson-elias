@@ -28,7 +28,7 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
 | :--- | :--- |
 | **Frontend** | Vue.js, Nuxt 4, Tailwind CSS |
 | **Build Tools** | Vite, Nuxt Modules, JAMstack Architecture |
-| **Backend/Cloud** | Firebase, Cloudflare |
+| **Backend/Cloud** | Supabase, Cloudflare |
 | **Workflow** | Git, GitHub, VS Code |
 
 > "Trading the constraints of legacy systems for the freedom of pure code and high-speed architectures."
