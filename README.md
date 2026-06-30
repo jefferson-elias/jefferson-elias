@@ -26,12 +26,12 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
 
 <p align="left">
   <a>
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/vue-6f7g1kg4nze88lponu8amu.png/vue-mxcdkhs7xgc3iws5auv8n.png" width="20" height="20" align="center" alt="Vue.js">
+    <img src="./.github/assets/vue.png" width="20" height="20" align="center" alt="Vue.js">
     <span><b>Vue.js</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nuxt-js.png" width="25" height="25" align="center" alt="Nuxt 4">
+    <img src="./.github/assets/nuxt.png" width="25" height="25" align="center" alt="Nuxt 4">
     <span><b>Nuxt 4</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
