@@ -36,7 +36,7 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tailwind.png" width="20" height="20" align="center" alt="Tailwind CSS">
+    <img src="./.github/assets/tailwind.png" width="20" height="20" align="center" alt="Tailwind CSS">
     <span><b>Tailwind CSS</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
