@@ -1,28 +1,22 @@
-# Jefferson Elias | Creative Developer
+## Jefferson Elias 
 
-Autodidact and "vibe coding" enthusiast focused on high-performance JAMstack architectures and minimalist design. I engineer digital solutions that prioritize velocity, symmetry, and a "Minimalist Premium" user experience.
+I’m a self-taught developer who loves the freedom of 'vibe coding.' I spend my days building digital solutions that bring together fast JAMstack architectures and minimalist design. For me, a great project needs two things: visual symmetry and that refined 'Minimalist Premium' experience.
 
----
+##
 
-### Primary Projects
+### Core projects
 
-#### [Space Tools dev](https://spacetools.dev) — *Global Ecosystem* 🌎
-An experimental laboratory of web utilities designed to reduce friction between idea and execution.
-* **Reach:** Modular, ad-free tools available for developers and creatives worldwide.
-* **Modules:** Home to **Snippets** (private code vault), **LinkMap** (visual mapping), **Pigments** (color lab), and **Revise** (text management).
-* **Philosophy:** 100% privacy-first and performance-driven tools.
+#### [Space Tools](https://spacetools.dev)
+It's my favorite project, where I build useful tools (or not) that make my day-to-day life easier and double as my personal test lab. It started out in HTML, CSS, and Vanilla JavaScript, but it's being completely rewritten with Vue and Nuxt so I can find the best way to expand and scale the project, and maybe even make it more competitive.
 
-#### [vmoode](https://vmoode.com) — Velocity. Vision. Value.
-Where the market delivers quick templates, we build exclusivity. Digital assets developed step by step, following every rule to ensure maximum quality and results.
-* Instant fluidity. Sites that respond before the user can even blink.
-* Minimalist and intentional design, crafted by humans for humans.
-* Digital assets structured to convert visitors into customers.
+#### [vmoode](https://vmoode.com)
+A project built for my daily bread, where I deliver complete, professional websites with a very clear purpose: minimalism, fewer heavy images, and more illustrations made directly in CSS or SVG. I have an eye for detail and make sure everything is exactly where it belongs.
 
----
+##
 
-### Tech Stack & Command Station
+### Technologies that are part of my experience
 
-I utilize a modern toolset to ensure sub-1-second loading times and clean, invisible engineering:
+I chose these tools because they allow me to be the perfectionist that I am, especially Vue and Nuxt, which have super organized and clean structures:
 
 <p align="left">
   <a>
@@ -32,7 +26,7 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
     <img src="./.github/assets/nuxt.png" width="25" height="25" align="center" alt="Nuxt 4">
-    <span><b>Nuxt 4</b></span>
+    <span><b>Nuxt</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
@@ -55,5 +49,3 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
     <span><b>Cloudflare</b></span>
   </a>
 </p>
-
-Trading the constraints of legacy systems for the freedom of pure code and high-speed architectures.
