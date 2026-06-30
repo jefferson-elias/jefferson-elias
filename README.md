@@ -41,17 +41,17 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./public/img/vite.png" width="20" height="20" align="center" alt="Vite">
+    <img src="./public/assets/vite.png" width="20" height="20" align="center" alt="Vite">
     <span><b>Vite</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./public/img/supabase.png" width="20" height="20" align="center" alt="Supabase">
+    <img src="./public/assets/supabase.png" width="20" height="20" align="center" alt="Supabase">
     <span><b>Supabase</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./public/img/cloudflare.png" width="20" height="20" align="center" alt="Cloudflare">
+    <img src="./public/assets/cloudflare.png" width="20" height="20" align="center" alt="Cloudflare">
     <span><b>Cloudflare</b></span>
   </a>
 </p>
