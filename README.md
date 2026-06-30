@@ -36,22 +36,22 @@ I utilize a modern toolset to ensure sub-1-second loading times and clean, invis
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
+    <img src="./.github/assets/vite.png" width="20" height="20" align="center" alt="Vite">
+    <span><b>Vite</b></span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a>
     <img src="./.github/assets/tailwind.png" width="20" height="20" align="center" alt="Tailwind CSS">
     <span><b>Tailwind CSS</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./public/assets/vite.png" width="20" height="20" align="center" alt="Vite">
-    <span><b>Vite</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <img src="./public/assets/supabase.png" width="20" height="20" align="center" alt="Supabase">
+    <img src="./.github/assets/supabase.png" width="20" height="20" align="center" alt="Supabase">
     <span><b>Supabase</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./public/assets/cloudflare.png" width="20" height="20" align="center" alt="Cloudflare">
+    <img src="./.github/assets/cloudflare.png" width="20" height="20" align="center" alt="Cloudflare">
     <span><b>Cloudflare</b></span>
   </a>
 </p>
