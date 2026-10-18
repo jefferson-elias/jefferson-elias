@@ -20,32 +20,26 @@ I chose these tools because they allow me to be the perfectionist that I am, esp
 
 <p align="left">
   <a>
-    <img src="./.github/assets/vue.png" width="20" height="20" align="center" alt="Vue.js">
     <span><b>Vue.js</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./.github/assets/nuxt.png" width="25" height="25" align="center" alt="Nuxt 4">
     <span><b>Nuxt</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./.github/assets/vite.png" width="20" height="20" align="center" alt="Vite">
     <span><b>Vite</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./.github/assets/tailwind.png" width="20" height="20" align="center" alt="Tailwind CSS">
     <span><b>Tailwind CSS</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./.github/assets/supabase.png" width="20" height="20" align="center" alt="Supabase">
     <span><b>Supabase</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./.github/assets/cloudflare.png" width="20" height="20" align="center" alt="Cloudflare">
     <span><b>Cloudflare</b></span>
   </a>
 </p>
