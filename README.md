@@ -15,28 +15,4 @@ It's my favorite project, where I build useful tools (or not) that make my day-t
 
 I chose these tools because they allow me to be the perfectionist that I am, especially Vue and Nuxt, which have super organized and clean structures:
 
-<p align="left">
-  <a>
-    <span><b>Vue.js</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <span><b>Nuxt</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <span><b>Vite</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <span><b>Tailwind CSS</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <span><b>Supabase</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <span><b>Cloudflare</b></span>
-  </a>
-</p>
+`Vue.js` `Nuxt` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `Cloudflare`
